@@ -1,6 +1,6 @@
-source\OzzPack\.vs\
+source/OzzPack/.vs
 *.ipch
-source/OzzPack/.vs/OzzPack/v17/.suo
+source/OzzPack/.vs/OzzPack/v17/
 *.db
 *.db-shm
 *.db-wal
