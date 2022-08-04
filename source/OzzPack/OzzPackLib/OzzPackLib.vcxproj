@@ -146,7 +146,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Core\PKCore.h" />
-    <ClInclude Include="File\OzzPk.h" />
+    <ClInclude Include="File\OzzPck.h" />
     <ClInclude Include="LIB\framework.h" />
     <ClInclude Include="LIB\pch.h" />
   </ItemGroup>

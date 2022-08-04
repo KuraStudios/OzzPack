@@ -21,7 +21,7 @@
     <ClInclude Include="LIB\pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="File\OzzPk.h">
+    <ClInclude Include="File\OzzPck.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Core\PKCore.h">
