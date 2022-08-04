@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{76FF3A1C-62A1-65F2-4B5C-7946379DEC42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\OzzPack">
+      <UniqueIdentifier>{A77CD7A2-934A-CBA8-7CDE-3BCF684BA70D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\OzzPack\OzzPackLib">
+      <UniqueIdentifier>{0F1D1C6C-7BDF-4FF6-C48F-DE82309128D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\OzzPack\OzzPackLib\Core">
+      <UniqueIdentifier>{C7C2AC29-B3E8-7690-9C2E-FC5B88F39B5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\OzzPack\OzzPackLib\File">
+      <UniqueIdentifier>{9E4DAE29-8A73-7890-73B9-FD5B5F7E9D5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\OzzPack\OzzPackLib\LIB">
+      <UniqueIdentifier>{551F0D28-C137-F451-8AE4-83EBF6BB88EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\ToOzzPck">
+      <UniqueIdentifier>{C93307EB-35BF-74AF-3ED0-F7A3AADAD0AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\ToOzzPck\source">
+      <UniqueIdentifier>{C9198D30-B513-B682-9E80-4C938A191CEF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\source\OzzPack\OzzPackLib\Core\PKCore.h">
+      <Filter>source\OzzPack\OzzPackLib\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\OzzPack\OzzPackLib\File\OzzPk.h">
+      <Filter>source\OzzPack\OzzPackLib\File</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\OzzPack\OzzPackLib\LIB\framework.h">
+      <Filter>source\OzzPack\OzzPackLib\LIB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\OzzPack\OzzPackLib\LIB\pch.h">
+      <Filter>source\OzzPack\OzzPackLib\LIB</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\source\OzzPack\OzzPackLib\LIB\OzzPackLib.cpp">
+      <Filter>source\OzzPack\OzzPackLib\LIB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\OzzPack\OzzPackLib\LIB\pch.cpp">
+      <Filter>source\OzzPack\OzzPackLib\LIB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\ToOzzPck\source\ToOzzPck.cpp">
+      <Filter>source\ToOzzPck\source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\premake5.lua" />
+  </ItemGroup>
+</Project>

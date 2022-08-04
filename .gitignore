@@ -1,0 +1,9 @@
+source\OzzPack\.vs\
+*.ipch
+source/OzzPack/.vs/OzzPack/v17/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.vsidx
+*.lock
