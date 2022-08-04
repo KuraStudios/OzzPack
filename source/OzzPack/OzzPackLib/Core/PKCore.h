@@ -1,4 +1,3 @@
-#pragma once
 // Copyright (C) Kura Studios All Rights Reserved. 
 #pragma once
 #ifndef GUARD

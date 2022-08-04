@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OzzPackLib", "OzzPackLib\OzzPackLib.vcxproj", "{9DD43EFB-808F-40B4-96B9-F4C70469EFE2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToOzzPck", "..\ToOzzPck\ToOzzPck\ToOzzPck.vcxproj", "{968D1BC4-2E40-4B2C-BCBC-9FF761066D64}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToOzzPck", "..\ToOzzPck\ToOzzPck.vcxproj", "{968D1BC4-2E40-4B2C-BCBC-9FF761066D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
